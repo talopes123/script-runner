@@ -1,0 +1,32 @@
+.code-area .keyword {
+    -fx-fill: blue;
+    -fx-font-weight: bold;
+}
+
+.code-area .string {
+    -fx-fill: green;
+}
+
+.code-area .comment {
+    -fx-fill: gray;
+    -fx-font-style: italic;
+}
+
+.code-area .error-location {
+    -fx-fill: red;
+    -fx-underline: true;
+}
+
+.keyword {
+    -fx-fill: blue;
+    -fx-font-weight: bold;
+}
+
+.string {
+    -fx-fill: green;
+}
+
+.comment {
+    -fx-fill: gray;
+    -fx-font-style: italic;
+}
