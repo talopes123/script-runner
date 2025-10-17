@@ -24,6 +24,8 @@ A JavaFX-based GUI application that allows users to write and execute Swift and 
 
 ### System Requirements
 - **Java 17 or higher**: The application is built with Java 17
+- **Maven**: Required for building and running the application
+  - Install: `brew install maven` (macOS) or download from [maven.apache.org](https://maven.apache.org/install.html)
 - **JavaFX 19**: Included as a Maven dependency
 - **Swift**: For executing Swift scripts (macOS: built-in, Linux: install Swift)
 - **Kotlin**: For executing Kotlin scripts
